@@ -1,7 +1,14 @@
 {
   "cash": 100000,
   "positions": {},
-  "pending": {},
+  "pending": {
+    "a0111f1a": {
+      "sym": "BTC",
+      "asset": "kripto",
+      "amount": 8750.0,
+      "created": "2026-10-21T10:40:53.686624"
+    }
+  },
   "last_update_id": 0,
   "history": []
 }
