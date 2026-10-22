@@ -1,14 +1,7 @@
 {
   "cash": 100000,
   "positions": {},
-  "pending": {
-    "cf83b65e": {
-      "sym": "BTC",
-      "asset": "kripto",
-      "amount": 9121.284399955663,
-      "created": "2026-10-22T00:18:22.005984"
-    }
-  },
+  "pending": {},
   "last_update_id": 0,
   "history": []
 }
